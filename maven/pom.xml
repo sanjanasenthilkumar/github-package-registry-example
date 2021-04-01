@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.igabaydulin</groupId>
+    <groupId>com.github.sanjanasenthilkumar</groupId>
     <artifactId>github-package-registry-parent</artifactId>
     <version>1.1.0</version>
     <packaging>pom</packaging>
 
     <name>github-package-registry-parent</name>
-    <url>https://github.com/igabaydulin/gradle-github-package-registry-example</url>
+    <url>https://github.com/sanjanasenthilkumar/gradle-github-package-registry-example</url>
 
     <modules>
         <module>lib</module>
