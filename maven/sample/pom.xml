@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>github-package-registry-parent</artifactId>
-        <groupId>com.github.sanjanasenthilkumar</groupId>
+        <groupId>com.github.igabaydulin</groupId>
         <version>1.0.0</version>
     </parent>
 
@@ -22,7 +22,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.sanjanasenthilkumar</groupId>
+            <groupId>com.github.igabaydulin</groupId>
             <artifactId>maven-example-ping</artifactId>
             <version>1.1.0</version>
         </dependency>
